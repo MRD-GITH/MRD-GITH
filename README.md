@@ -33,7 +33,7 @@ MySql,
 
 Python,
 
-Python liabraries- Numpy,Pandas,Matplotlib,Seaborn.
+Python libraries- Numpy,Pandas,Matplotlib,Seaborn.
 
 MS-Excel,
 
