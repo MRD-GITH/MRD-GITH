@@ -1,25 +1,3 @@
-Project Title- 'Customer relationship management database-Student's Informatica , using MySQL' 
-
-
-## Acknowledgements
-
- - This project is useful for following-
- 
-   1)college Administration,
-
-   2)Training Institutes.
- 
- Purpose-
- 
-    (1)To track students from the admissions to course completion.
-
-    (2)Produce data-driven insights to illustrate progress towards goals, 
-    and streamline their admissions and marketing initiatives to save time and effort.
-
-
-
-
-
  About Me
 I am a Mechanical Engineer ,with an Automobile Engineering diploma.
 
